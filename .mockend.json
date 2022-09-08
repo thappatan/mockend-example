@@ -1,16 +1,16 @@
 {
   "get-user-profile": {
-    "code": "DDP101",
-    "desc": "Success",
-    "message": "Success",
+    "code": { "string":{}},
+    "desc": { "string":{}},
+    "message": { "string":{}},
     "data": {
-      "pin": "00041524",
-      "username": "chaowwas",
-      "firstname": "CHAOWWAT",
-      "lastname": "SEEJAEM",
-      "positionDesc": "Senior Programmer Analyst",
-      "orgDesc": "Employee Support System",
-      "roleApp": "Admin"
+      "pin": { "string":{}},
+      "username": { "string":{}},
+      "firstname": { "string":{}},
+      "lastname": { "string":{}},
+      "positionDesc": { "string":{}},
+      "orgDesc": { "string":{}},
+      "roleApp": { "string":{}}
     }
   }
 }
